@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Deployment script for Minecraft website with Nginx on EC2 GitHub Actions Runner
 set -e  # stop if any command fails
 
 echo "📥 Pulling latest code..."
