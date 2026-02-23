@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Auto Deploy Script with GitHub! Test 5
+        Auto Deploy Script with GitHub! Test 6
       </p>
     </>
   )
