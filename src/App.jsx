@@ -22,11 +22,11 @@ function App() {
           
         </button>
         <p>
-          Hello world! Edit <code>src/App.jsx</code> !!!
+          Hello world!!! Edit <code>src/App.jsx</code> !!!
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more!
+        2Click on the Vite and React logos to learn more!
       </p>
     </>
   )
